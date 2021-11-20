@@ -97,3 +97,4 @@ Available Commands:
   kind        Install KubeSphere with kind
   kk          Install KubeSphere with kubekey (aka kk)
 ```
+Trigger Tekton by pull request
