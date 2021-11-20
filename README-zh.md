@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/github/release/kubesphere-sigs/ks.svg?label=release)](https://github.com/kubesphere-sigs/ks/releases/latest)
 ![GitHub All Releases](https://img.shields.io/github/downloads/kubesphere-sigs/ks/total)
 
-# ks
+# ks1
 
 `ks` 是 [KubeSphere](https://github.com/kubesphere/kubesphere) 的命令行客户端，可以简化用户、开发者的日常操作。
 
