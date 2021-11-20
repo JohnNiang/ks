@@ -98,3 +98,4 @@ Available Commands:
   kk          Install KubeSphere with kubekey (aka kk)
 ```
 Trigger Tekton by pull request
+Trigger Tekton by pull request
