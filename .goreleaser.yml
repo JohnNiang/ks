@@ -108,5 +108,3 @@ dockers:
       - "johnniang/ks:{{.Tag}}"
       - "ghcr.io/johnniang/ks/ks:latest"
       - "ghcr.io/johnniang/ks/ks:{{.Tag}}"
-    build_flag_templates:
-      - "--platform=linux/amd64,linux/arm64"
